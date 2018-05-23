@@ -67,11 +67,15 @@ ProMicroを写真のとおりに実装します。
 ### ボトムプレート
 左手側と右手側でボトムプレートの形状が異なります。
 右手側はProMicroが出っ張っているため、MicroUSB部分が干渉しないように加工してあります。
-写真のようにスペーサーとネジを付けて実装は完了です(お好みで四隅にゴム足を付けてください)。
+写真のようにスペーサーとネジを付けます(お好みで四隅にゴム足を付けます)。
 
 ![lrg_dsc03699](https://user-images.githubusercontent.com/736191/40421857-41bfced8-5ec8-11e8-948c-e52313227dbb.jpg)
 
 ![lrg_dsc03706](https://user-images.githubusercontent.com/736191/40421545-40710fb6-5ec7-11e8-90fb-982ab76ec62c.jpg)
+
+### キーキャップ
+最後にキーキャップを付けて完成です。
+![lrg_dsc03727](https://user-images.githubusercontent.com/736191/40422415-3a6dc9e4-5eca-11e8-956e-e07d1105848f.jpg)
 
 
 ### Underglow LED (オプション)
