@@ -67,7 +67,20 @@ ProMicroを写真のとおりに実装します。
 ### ボトムプレート
 左手側と右手側でボトムプレートの形状が異なります。
 右手側はProMicroが出っ張っているため、MicroUSB部分が干渉しないように加工してあります。
-写真のようにスペーサーとネジを付けて完成です(お好みで四角にゴム足を付けてください)。
+写真のようにスペーサーとネジを付けて実装は完了です(お好みで四隅にゴム足を付けてください)。
+
+![lrg_dsc03699](https://user-images.githubusercontent.com/736191/40421857-41bfced8-5ec8-11e8-948c-e52313227dbb.jpg)
+
+![lrg_dsc03706](https://user-images.githubusercontent.com/736191/40421545-40710fb6-5ec7-11e8-90fb-982ab76ec62c.jpg)
+
+
+### Underglow LED (オプション)
+
+https://www.switch-science.com/catalog/1400/ 等のシリアルLEDテープを実装する場合は以下のように実装します。
+ものによってVCCとGNDが反転しているものがあるので注意してください。
+
+![led](https://user-images.githubusercontent.com/736191/40420981-21b60222-5ec5-11e8-9e1d-0ba6050762e2.jpg)
+
 
 ## ファームウェア
 https://docs.qmk.fm/#/newbs_getting_started こちらを参照して頂き、ファームウェアを書き込む環境を用意します。
