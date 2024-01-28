@@ -140,7 +140,7 @@
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 5,
           "td_on_pad_in_zone": false,
-          "td_onpadsmd": true,
+          "td_onpadsmd": false,
           "td_onroundshapesonly": false,
           "td_ontrackend": false,
           "td_onviapad": true
@@ -449,7 +449,7 @@
       "idf": "",
       "netlist": "corne.net",
       "specctra_dsn": "",
-      "step": "../../../../../../../Desktop/corne-pcb.STEP",
+      "step": "../../../../../../../../Desktop/ls-chocolate-pcb.step",
       "vrml": "../../../../../../Desktop/corne.wrl"
     },
     "page_layout_descr_file": ""
